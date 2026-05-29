@@ -1,1 +1,1 @@
-# cajas-registradoras
+# cajasregistradoras
